@@ -12,3 +12,6 @@
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+
+for time constraints the model grid search is simplified, you can open models/train_classifier.py and app more features to the grid search. 
